@@ -187,24 +187,44 @@
 				"resourceCitation": {
 					"basicInformation": {
 						"alternateTitle": false,
+						"dates": {
+							"dateItem": {
+								"date": {},
+								"dateType": {},
+								"description": {}
+							}
+						},
 						"edition": false,
 						"presentationForm": false
-					}
+					},
 					"identifier": {},
-					"responsibleParty": {},
+					"responsibleParty": {
+						"role": {},
+						"contacts": {}
+					},
 					"onlineResource": {
+						"name": {},
+						"url": {},
 						"protocol": false,
+						"description": {},
 						"onlineFunction": false,
 						"applicationProfile": false,
 						"protocolRequest": false
 					},
 					"identifierSimple": false,
 					"identifierShort": false,
-					"series": {},
+					"series": {
+						"name": {},
+						"issue": {},
+						"page": {}
+					},
 					"otherCitationDetails": {},
 					"graphic": false
 				},
-				"resourceType": {},
+				"resourceType": {
+					"resourceType": {},
+					"name": {}
+				},
 				"metadataCitation": false
 			},
             "documents": {
